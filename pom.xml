@@ -75,7 +75,7 @@
         <jjwt-api.version>0.10.7</jjwt-api.version>
         <validation-api.version>1.1.0.Final</validation-api.version>
         <hibernate.version>5.2.0.Final</hibernate.version>
-        <shiro.version>1.4.1</shiro.version>
+        <shiro.version>1.4.2</shiro.version>
         <hanlp.version>portable-1.7.5</hanlp.version>
         <wiremock.version>2.19.0</wiremock.version>
         <karate.version>0.9.4</karate.version>
