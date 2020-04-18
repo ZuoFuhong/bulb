@@ -69,7 +69,7 @@
         <grpc.version>1.23.0</grpc.version>
         <pinyin4j.version>2.5.1</pinyin4j.version>
         <hbase-client.version>2.0.6</hbase-client.version>
-        <lucene.version>5.5.2</lucene.version>
+        <lucene.version>8.5.1</lucene.version>
         <commons-cli.version>1.4</commons-cli.version>
         <tomcat-embed.version>8.5.37</tomcat-embed.version>
         <jjwt-api.version>0.10.7</jjwt-api.version>
