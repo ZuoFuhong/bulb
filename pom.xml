@@ -33,7 +33,7 @@
         <commons-logging.version>1.2</commons-logging.version>
         <lombok.version>1.18.2</lombok.version>
         <junit.jupiter.version>5.3.2</junit.jupiter.version>
-        <amqp.version>3.6.6</amqp.version>
+        <amqp.version>4.8.0</amqp.version>
         <elasticsearch.version>2.4.0</elasticsearch.version>
         <byte-buddy.version>1.7.11</byte-buddy.version>
         <transmittable-thread-local.version>2.10.2</transmittable-thread-local.version>
