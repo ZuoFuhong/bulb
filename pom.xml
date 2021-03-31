@@ -20,7 +20,7 @@
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <mysql.connector.version>5.1.46</mysql.connector.version>
         <kafka.version>2.4.1</kafka.version>
-        <guava.version>27.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <druid.version>1.1.10</druid.version>
         <zookeeper.version>3.4.6</zookeeper.version>
         <mybatis.version>3.4.6</mybatis.version>
