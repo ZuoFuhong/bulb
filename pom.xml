@@ -38,7 +38,7 @@
         <byte-buddy.version>1.7.11</byte-buddy.version>
         <transmittable-thread-local.version>2.10.2</transmittable-thread-local.version>
         <commons-codec.version>1.11</commons-codec.version>
-        <commons-beanutils.version>1.8.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <zkclient.version>0.1</zkclient.version>
         <commons-pool.version>2.4.2</commons-pool.version>
         <disruptor.version>3.4.2</disruptor.version>
