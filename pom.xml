@@ -82,7 +82,7 @@
         <config.version>1.4.0</config.version>
         <HikariCP.version>3.4.1</HikariCP.version>
         <zxing.version>3.3.3</zxing.version>
-        <quartz.version>2.3.0</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <testng.version>6.14.3</testng.version>
         <apollo.version>1.5.1</apollo.version>
         <javax.mail.version>1.6.2</javax.mail.version>
