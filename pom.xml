@@ -63,7 +63,7 @@
         <servlet.version>3.1.0</servlet.version>
         <hessian.version>4.0.62</hessian.version>
         <jetty.version>9.4.28.v20200408</jetty.version>
-        <httpclient.version>4.5.9</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <okhttp.version>3.14.2</okhttp.version>
         <protobuf-java.version>3.9.1</protobuf-java.version>
         <grpc.version>1.23.0</grpc.version>
